@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Raw Elements – Handmade Custom Furniture Christchurch',
   },
   plugins: ['gatsby-plugin-react-helmet'],
 }
