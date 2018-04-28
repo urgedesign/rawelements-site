@@ -1,14 +1,14 @@
 @font-face {
   font-family: 'Clinton';
-  src: url('../fonts/clinton/clintonsemibold.woff2') format('woff2'),
-    url('../fonts/clinton/clintonsemibold.woff') format('woff');
+  src: url('../fonts/Clinton/clintonsemibold.woff2') format('woff2'),
+    url('../fonts/Clinton/clintonsemibold.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Clinton';
-  src: url('../fonts/clinton/clintonbold.woff2') format('woff2'),
-    url('../fonts/clinton/clintonbold.woff') format('woff');
+  src: url('../fonts/Clinton/clintonbold.woff2') format('woff2'),
+    url('../fonts/Clinton/clintonbold.woff') format('woff');
   font-weight: bold;
   font-style: normal;
 }
