@@ -18,7 +18,11 @@ html {
 }
 
 body {
-  background: #111111;
+  background-color: #111111;
+  background-image: url(../img/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
   color: #ffffff;
   font-family: Clinton, sans-serif;
   font-weight: normal;
@@ -54,7 +58,7 @@ h3 {
 }
 
 .content {
-  margin: 0 auto;
+  margin: 15% auto auto auto;
   font-size: 14px;
 }
 
